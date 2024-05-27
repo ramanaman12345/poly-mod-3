@@ -8,12 +8,6 @@ In this project, we have to build a circuit using `circom`, compile a `Verifier 
 
 &nbsp;
 
-### Circuit Diagram
-&nbsp;
-![Circuit Diagram](https://authoring.metacrafters.io/assets/cms/Assessment_b05f6ed658.png?updated_at=2023-02-24T00:00:37.278Z)
-
-&nbsp;
-
 ### Circuit Code
 
 ```
